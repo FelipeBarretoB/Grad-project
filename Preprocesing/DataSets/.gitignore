@@ -1,6 +1,1 @@
-#archivos pesados que no se suben a git
-#https://www.kaggle.com/c/kddcup99/data
-kddcup.data
-Internet_firewall_data.csv
-../../EDA/DataSets/KDDCup99.csv
-UNSW.csv
+*
